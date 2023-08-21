@@ -1,11 +1,11 @@
 public class Recurcy {
 
     public static void main(String[] args) {
-        System.out.print("Сумма цифр натурального числа 179: " + sumOfDigs(179));
+        System.out.print("The sum of the digits of the natural number 179: " + sumOfDigs(179));
         System.out.println();
-        System.out.print("Является ли число 8 степенью 2: ");
+        System.out.print("Is the number 8 a power of 2: ");
         checkPowerOfTwo(8);
-        System.out.print("Является ли число 3 степенью 2: ");
+        System.out.print("Is the number 3 a power of 2: ");
         checkPowerOfTwo(3);
     }
 
